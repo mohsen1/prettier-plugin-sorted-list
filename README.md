@@ -1,4 +1,4 @@
-# Prettier Plugin Sorted Lines
+# Prettier Plugin Sorted List
 
 This is a plugin for Prettier that sorts **lists of string literals** in your JavaScript or TypeScript code. This tool is designed to make your code cleaner and more readable.
 
@@ -10,10 +10,10 @@ Firstly, you'll need to install Prettier:
 npm install --save-dev prettier
 ```
 
-Then, install `prettier-plugin-sorted-lines`:
+Then, install `prettier-plugin-sorted-list`:
 
 ```
-npm install --save-dev prettier-plugin-sorted-lines
+npm install --save-dev prettier-plugin-sorted-list
 ```
 
 ### Add a Prettier Configuration File
@@ -22,7 +22,7 @@ Create a file named `.prettierrc` in the root of your project and add the follow
 
 ```json
 {
-  "plugins": ["prettier-plugin-sorted-lines"]
+  "plugins": ["prettier-plugin-sorted-list"]
 }
 ```
 
