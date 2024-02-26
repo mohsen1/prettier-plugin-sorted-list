@@ -1,0 +1,16 @@
+{
+  "name": "prettier-plugin-sorted-list",
+  "version": "1.0.0",
+  "description": "This is a plugin for Prettier that sorts lists of string literals in your JavaScript or TypeScript code. This tool is designed to make your code cleaner and more readable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "Mohsen Azimi <me@azimi.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "dedent": "^1.5.1",
+    "prettier": "^3.2.5"
+  }
+}
